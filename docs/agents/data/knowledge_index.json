@@ -1,0 +1,15 @@
+{
+  "presupuesto_m07": "Archivo principal mas reciente - Santorini Azotea (Dic 2025)",
+  "resumen_presupuesto_format": "Formato final para Business Central (output)",
+  "detallado_format": "Tabla detallada del presupuesto (983 filas)",
+  "materiales_m07": "Lista completa de materiales calculados (344 items)",
+  "obra_gris_acabados_format": "Hoja de entrada manual - Obra Gris y Acabados (1844 filas)",
+  "electrico_format": "Cantidades electricas por modelo (336 filas)",
+  "mecanico_format": "Cantidades mecanicas/sanitarias por modelo (223 filas)",
+  "materiales_precios": "Base de precios de materiales (from Ikaria)",
+  "mano_obra_precios": "Base de precios mano de obra (from Ikaria)",
+  "equipos_precios": "Base de precios equipos y subcontratos",
+  "costo_personal": "Costos personal con cargas sociales",
+  "rendimientos_db": "Rendimientos de construccion (base)",
+  "graficos_data": "Datos para graficos interactivos"
+}

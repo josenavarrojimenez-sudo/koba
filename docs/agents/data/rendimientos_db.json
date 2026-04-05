@@ -1,0 +1,555 @@
+{
+  "1_OG y 2_ACA": {
+    "FACTORES": [
+      {
+        "nombre": "Factor de compactación",
+        "cantidad": 0.3
+      },
+      {
+        "nombre": "Factor de desperdicio general",
+        "cantidad": 0.05
+      },
+      {
+        "nombre": "Factor MO para muros de concreto",
+        "cantidad": 1.1
+      }
+    ],
+    "DOSIFICACIONES /m3": [
+      {
+        "nombre": "Sello Arena",
+        "cantidad": 0.72,
+        "unidad": "m3"
+      },
+      {
+        "nombre": "Sello Piedra cuartilla",
+        "cantidad": 0.56,
+        "unidad": "m3"
+      },
+      {
+        "nombre": "Sello Cemento",
+        "cantidad": 180.0,
+        "unidad": "kg"
+      },
+      {
+        "nombre": "Losas Arena",
+        "cantidad": 0.58,
+        "unidad": "m3"
+      },
+      {
+        "nombre": "Losas Piedra cuartilla",
+        "cantidad": 0.63,
+        "unidad": "m3"
+      },
+      {
+        "nombre": "Losas Cemento",
+        "cantidad": 333.0,
+        "unidad": "kg"
+      },
+      {
+        "nombre": "Losas Aditivo",
+        "cantidad": 0.8,
+        "unidad": "litros"
+      },
+      {
+        "nombre": "Muros Arena",
+        "cantidad": 0.6900000000000001,
+        "unidad": "m3"
+      },
+      {
+        "nombre": "Muros Piedra quintilla",
+        "cantidad": 0.54,
+        "unidad": "m3"
+      },
+      {
+        "nombre": "Muros Cemento",
+        "cantidad": 340.0,
+        "unidad": "kg"
+      },
+      {
+        "nombre": "Muros Aditivo",
+        "cantidad": 2.4,
+        "unidad": "litros"
+      },
+      {
+        "nombre": "Muros Fibra",
+        "cantidad": 1.0,
+        "unidad": "kg"
+      }
+    ],
+    "ACEROS": [
+      {
+        "nombre": "Alambre negro",
+        "cantidad": 0.045
+      },
+      {
+        "nombre": "Soldadura",
+        "cantidad": 0.004
+      },
+      {
+        "nombre": "Thinner",
+        "cantidad": 0.004
+      },
+      {
+        "nombre": "Disco corte metal",
+        "cantidad": 0.004
+      },
+      {
+        "nombre": "Mecha",
+        "cantidad": 0.004
+      }
+    ],
+    "CIELOS DE GYPSUM": [
+      {
+        "nombre": "Láminas (a una cara)",
+        "cantidad": 0.36952432141897346,
+        "unidad": "m2"
+      },
+      {
+        "nombre": "Perfil omega",
+        "cantidad": 0.7857142857142857,
+        "unidad": "m2"
+      },
+      {
+        "nombre": "Canal para cielo",
+        "cantidad": 0.20370370370370372,
+        "unidad": "m2"
+      },
+      {
+        "nombre": "Angular de metal",
+        "cantidad": 0.25,
+        "unidad": "m2"
+      },
+      {
+        "nombre": "Cinta papel de 2\"x76m",
+        "cantidad": 0.019575064710957726,
+        "unidad": "m2"
+      },
+      {
+        "nombre": "Pasta para cielo (cubeta)",
+        "cantidad": 0.06666666666666667,
+        "unidad": "m2"
+      },
+      {
+        "nombre": "Tornillo frijolillo",
+        "cantidad": 25.0,
+        "unidad": "m2"
+      },
+      {
+        "nombre": "Tornillo de forro",
+        "cantidad": 12.0,
+        "unidad": "m2"
+      }
+    ],
+    "MURO SECO": [
+      {
+        "nombre": "Láminas (a dos caras)",
+        "cantidad": 0.7390486428379469,
+        "unidad": "m2"
+      },
+      {
+        "nombre": "Stud",
+        "cantidad": 0.9166666666666666,
+        "unidad": "m2"
+      },
+      {
+        "nombre": "Track",
+        "cantidad": 0.28205128205128205,
+        "unidad": "m2"
+      },
+      {
+        "nombre": "Clavo de impacto",
+        "cantidad": 4.230769230769231,
+        "unidad": "m2"
+      },
+      {
+        "nombre": "Tiro verde",
+        "cantidad": 4.230769230769231,
+        "unidad": "m2"
+      },
+      {
+        "nombre": "Cinta malla",
+        "cantidad": 0.06612021857923499,
+        "unidad": "m2"
+      },
+      {
+        "nombre": "Jota de plástico",
+        "cantidad": 0.3606557377049181,
+        "unidad": "m2"
+      },
+      {
+        "nombre": "Esquinero de plástico",
+        "cantidad": 0.3606557377049181,
+        "unidad": "m2"
+      },
+      {
+        "nombre": "Tornillo frijolillo",
+        "cantidad": 25.0,
+        "unidad": "m2"
+      },
+      {
+        "nombre": "Tornillo de forro",
+        "cantidad": 24.0,
+        "unidad": "m2"
+      },
+      {
+        "nombre": "Muro seco",
+        "cantidad": 0.30303030303030304,
+        "unidad": "m2"
+      },
+      {
+        "nombre": "Maxiempaste liso 25kg",
+        "cantidad": 0.09166666666666667,
+        "unidad": "m2"
+      }
+    ],
+    "ENCHAPES": [
+      {
+        "nombre": "Bondex Plus 40 kg INTACO",
+        "cantidad": 0.17054263565891473,
+        "unidad": "m2"
+      },
+      {
+        "nombre": "Fragua 2kg",
+        "cantidad": 0.15,
+        "unidad": "m2"
+      },
+      {
+        "nombre": "Cruz para sisa",
+        "cantidad": 0.06666666666666667,
+        "unidad": "m2"
+      },
+      {
+        "nombre": "Espuma para limpiar",
+        "cantidad": 0.016666666666666666,
+        "unidad": "m2"
+      },
+      {
+        "nombre": "Chispa para cortar ceramica",
+        "cantidad": 0.013333333333333334,
+        "unidad": "m2"
+      },
+      {
+        "nombre": "Disco diamantado 4-1/2\"",
+        "cantidad": 0.008333333333333333,
+        "unidad": "m2"
+      }
+    ],
+    "MANO DE OBRA": [
+      {
+        "nombre": "Trazo",
+        "cantidad": 600.0,
+        "unidad": "m2"
+      },
+      {
+        "nombre": "Excavación manual",
+        "cantidad": 2500.0,
+        "unidad": "m2"
+      },
+      {
+        "nombre": "Relleno de lastre",
+        "cantidad": 8000.0,
+        "unidad": "m3"
+      },
+      {
+        "nombre": "Sello de concreto",
+        "cantidad": 11000.0,
+        "unidad": "m3"
+      },
+      {
+        "nombre": "Concreto losas",
+        "cantidad": 11000.0,
+        "unidad": "m3"
+      },
+      {
+        "nombre": "Armadura",
+        "cantidad": 600.0,
+        "unidad": "kg"
+      },
+      {
+        "nombre": "Formaleta de losas",
+        "cantidad": 6000.0,
+        "unidad": "m2"
+      },
+      {
+        "nombre": "Tuberia sanitaria_losa",
+        "cantidad": 1200.0,
+        "unidad": "ml"
+      },
+      {
+        "nombre": "Accesorios sanitarios_losa",
+        "cantidad": 500.0,
+        "unidad": "und"
+      },
+      {
+        "nombre": "Tuberia sanitaria_entrepiso",
+        "cantidad": 1200.0,
+        "unidad": "ml"
+      },
+      {
+        "nombre": "Accesorios sanitarios_entrepiso",
+        "cantidad": 400.0,
+        "unidad": "und"
+      },
+      {
+        "nombre": "Tuberia potable",
+        "cantidad": 600.0,
+        "unidad": "ml"
+      },
+      {
+        "nombre": "Accesorios potable",
+        "cantidad": 485.0,
+        "unidad": "und"
+      },
+      {
+        "nombre": "Tuberia pluvial",
+        "cantidad": 1200.0,
+        "unidad": "ml"
+      },
+      {
+        "nombre": "Accesorios pluvial",
+        "cantidad": 485.0,
+        "unidad": "und"
+      },
+      {
+        "nombre": "Tubería eléctrica en muros",
+        "cantidad": 400.0,
+        "unidad": "m2"
+      },
+      {
+        "nombre": "Armadura de muros",
+        "cantidad": 550.0,
+        "unidad": "kg"
+      },
+      {
+        "nombre": "Formaleta de muros",
+        "cantidad": 1320.0,
+        "unidad": "m2"
+      },
+      {
+        "nombre": "Concreto de muros",
+        "cantidad": 11000.0,
+        "unidad": "m3"
+      },
+      {
+        "nombre": "Trazo formaleta de muros",
+        "cantidad": 330.0,
+        "unidad": "m2"
+      },
+      {
+        "nombre": "Desencofrado de muros",
+        "cantidad": 550.0,
+        "unidad": "m2"
+      },
+      {
+        "nombre": "RESANE DE MUROS N1",
+        "cantidad": 650.0,
+        "unidad": "m3"
+      },
+      {
+        "nombre": "Concreto de gradas",
+        "cantidad": 15000.0,
+        "unidad": "m3"
+      },
+      {
+        "nombre": "Formaleta de gradas",
+        "cantidad": 16000.0,
+        "unidad": "m2"
+      },
+      {
+        "nombre": "Trazo formaleta de gradas",
+        "cantidad": 3200.0,
+        "unidad": "m2"
+      },
+      {
+        "nombre": "Desencofrado de gradas",
+        "cantidad": 6500.0,
+        "unidad": "m2"
+      },
+      {
+        "nombre": "Acabado lavado de losa",
+        "cantidad": 3100.0,
+        "unidad": "m2"
+      },
+      {
+        "nombre": "Soldadura",
+        "cantidad": 1500.0,
+        "unidad": "kg"
+      },
+      {
+        "nombre": "Instalación cubierta de techo",
+        "cantidad": 12500.0,
+        "unidad": "m2"
+      },
+      {
+        "nombre": "Instalación de hojalatería",
+        "cantidad": 5000.0,
+        "unidad": "m"
+      },
+      {
+        "nombre": "Tapicheles livianos",
+        "cantidad": 4500.0,
+        "unidad": "m2"
+      },
+      {
+        "nombre": "Cielos de gypsum",
+        "cantidad": 6000.0,
+        "unidad": "m2"
+      },
+      {
+        "nombre": "Paredes livianas doble forro",
+        "cantidad": 6500.0,
+        "unidad": "m2"
+      },
+      {
+        "nombre": "Enchapes de baño",
+        "cantidad": 6500.0,
+        "unidad": "m2"
+      },
+      {
+        "nombre": "Enchape de piso",
+        "cantidad": 6500.0,
+        "unidad": "m2"
+      },
+      {
+        "nombre": "Enchapes externos",
+        "cantidad": 6500.0,
+        "unidad": "m2"
+      },
+      {
+        "nombre": "Enchape de gradas",
+        "cantidad": 6500.0,
+        "unidad": "m3"
+      },
+      {
+        "nombre": "Repello",
+        "cantidad": 2500.0,
+        "unidad": "m2"
+      },
+      {
+        "nombre": "Empaste",
+        "cantidad": 1500.0,
+        "unidad": "m2"
+      },
+      {
+        "nombre": "Instalación de zacate",
+        "cantidad": 4000.0,
+        "unidad": "m2"
+      },
+      {
+        "nombre": "Pintura SELLADOR",
+        "cantidad": 800.0,
+        "unidad": "m2"
+      },
+      {
+        "nombre": "Pintura INTERNA",
+        "cantidad": 1200.0,
+        "unidad": "m2"
+      },
+      {
+        "nombre": "Pintura EXTERNA",
+        "cantidad": 1200.0,
+        "unidad": "m2"
+      },
+      {
+        "nombre": "RESANE Y GRIETAS",
+        "cantidad": 1000.0,
+        "unidad": "m2"
+      },
+      {
+        "nombre": "Instalación de puertas",
+        "cantidad": 13500.0,
+        "unidad": "u"
+      },
+      {
+        "nombre": "Instalación de rodapiés",
+        "cantidad": 3500.0,
+        "unidad": "m"
+      },
+      {
+        "nombre": "Instalación inodoro",
+        "cantidad": 7800.0,
+        "unidad": "u"
+      },
+      {
+        "nombre": "Instalación lavatorio",
+        "cantidad": 5500.0,
+        "unidad": "u"
+      },
+      {
+        "nombre": "Instalación fregadero",
+        "cantidad": 5500.0,
+        "unidad": "u"
+      },
+      {
+        "nombre": "Instalación pila",
+        "cantidad": 5500.0,
+        "unidad": "u"
+      },
+      {
+        "nombre": "Instalación ducha",
+        "cantidad": 2570.0,
+        "unidad": "u"
+      },
+      {
+        "nombre": "Instalación de griferia",
+        "cantidad": 5175.0,
+        "unidad": "u"
+      },
+      {
+        "nombre": "Acabado de azotea",
+        "cantidad": 2500.0,
+        "unidad": "m2"
+      },
+      {
+        "nombre": "Revisión y limpieza final (poncheo)",
+        "cantidad": 2000.0,
+        "unidad": "m2"
+      },
+      {
+        "nombre": "Instalación de tapia prefa",
+        "cantidad": 14500.0,
+        "unidad": "m"
+      },
+      {
+        "nombre": "Cajas mecanicas",
+        "cantidad": 12000.0,
+        "unidad": "u"
+      },
+      {
+        "nombre": "Tuberia sanitaria_losa",
+        "cantidad": 2000.0,
+        "unidad": "ml"
+      },
+      {
+        "nombre": "Accesorios sanitarios_losa",
+        "cantidad": 2000.0,
+        "unidad": "und"
+      },
+      {
+        "nombre": "Bajantes",
+        "cantidad": 15000.0,
+        "unidad": "baño"
+      },
+      {
+        "nombre": "Acabados mecánicos",
+        "cantidad": 25000.0,
+        "unidad": "u"
+      },
+      {
+        "nombre": "Medidor",
+        "cantidad": 15000.0,
+        "unidad": "u"
+      },
+      {
+        "nombre": "Fabricación de Hojalateria",
+        "cantidad": 6000.0,
+        "unidad": "m"
+      },
+      {
+        "nombre": "Geocelda",
+        "cantidad": 18000.0,
+        "unidad": "m"
+      }
+    ]
+  }
+}

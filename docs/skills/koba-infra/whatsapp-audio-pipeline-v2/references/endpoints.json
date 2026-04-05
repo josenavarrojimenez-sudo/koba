@@ -1,0 +1,20 @@
+{
+  "endpoints": {
+    "whatsapp_bridge_health": "http://127.0.0.1:3000/health",
+    "whatsapp_send_text": "http://127.0.0.1:3000/send",
+    "whatsapp_send_media": "http://127.0.0.1:3000/send-media",
+    "koba_remote_exec": "https://audio-koba.cornelio.app/exec",
+    "koba_health": "https://audio-koba.cornelio.app/health"
+  },
+  "keys": {
+    "bridge_auth": "k=limon8080",
+    "tts_voice_id": "iwd8AcSi0Je5Quc56ezK",
+    "tts_api_key_location": "/root/.hermes/.env"
+  },
+  "files": {
+    "tts_script": "/root/koba/scripts/koba_tts_whatsapp.py",
+    "whatsapp_bridge": "/root/.hermes/hermes-agent/scripts/whatsapp-bridge/bridge.js",
+    "whatsapp_session": "/root/.hermes/whatsapp/session/",
+    "outbound_audio_dir": "/root/.hermes/audio_outbound/"
+  }
+}
