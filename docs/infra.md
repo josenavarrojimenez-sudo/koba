@@ -13,7 +13,7 @@
 
 ### 2. ElevenLabs Audio Pipeline
 - **STT**: ElevenLabs Scribe V1
-- **TTS Voice ID**: `It2gr23I5JuOyLYBui1t`
+- **TTS Voice ID**: `iwd8AcSi0Je5Quc56ezK`
 - **API Endpoint**: `https://api.elevenlabs.io/v1/speech-to-text`
 - **Campo de audio**: `file` (IMPORTANTE - no `audio`)
 - **Model ID**: `scribe_v1`

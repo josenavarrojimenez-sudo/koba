@@ -47,7 +47,7 @@
 - **WhatsApp**: `hermes whatsapp` corre en HOST (root@srv1443323), NO en contenedores
 - **Audio inbound**: `/root/.hermes/audio_cache/*.ogg`
 - **TTS outbound**: `/root/.hermes/audio_outbound/*.ogg`
-- **ElevenLabs Voice**: It2gr23I5JuOyLYBui1t
+- **ElevenLabs Voice**: iwd8AcSi0Je5Quc56ezK
 - **STT**: ElevenLabs Scribe V2
 - **Audio Bridge**: `https://audio-koba.cornelio.app` (CF Tunnel -> localhost:9999)
 

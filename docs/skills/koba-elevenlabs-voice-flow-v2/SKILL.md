@@ -16,8 +16,8 @@ Strategic integration of ElevenLabs API for high-fidelity voice-to-voice interac
 - **Logic**: Reads latest `.ogg` from `/root/.hermes/audio_cache/`, sends to ElevenLabs, returns JSON.
 
 ### Voice Generation (TTS)
-- **Voice**: Toño (Voice ID: `It2gr23I5JuOyLYBui1t`).
-- **Model**: `eleven_v3`.
+- **Voice**: Toño (Voice ID: `iwd8AcSi0Je5Quc56ezK`).
+- **Model**: `eleven_multilingual_v2`.
 - **Format**: OGG/Opus (via ffmpeg or direct API request).
 - **Script (Docker)**: `/opt/koba_brain/scripts/tts.sh` (CLI mode via curl).
 

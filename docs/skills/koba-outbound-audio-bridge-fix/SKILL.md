@@ -15,7 +15,7 @@ Generate the audio file **directly on the VPS host** in a shared location, then 
 ### Prerequisities
 *   SSH access to the VPS Host (e.g., via `paramiko` from Koba's terminal).
 *   ElevenLabs API Key.
-*   Voice ID (Toño): `It2gr23I5JuOyLYBui1t`.
+*   Voice ID (Toño): `iwd8AcSi0Je5Quc56ezK`.
 
 ### Steps
 

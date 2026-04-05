@@ -18,10 +18,10 @@ Strategic integration of ElevenLabs API for high-fidelity Tico voice (Toño) and
 
 ## TTS Workflow (Toño - Persona Koba)
 1. Text input (includes emotional tags like [laughs] or [excited] in the API call but stripped from text logs).
-2. Voice ID: `It2gr23I5JuOyLYBui1t`
-3. Endpoint: `https://api.elevenlabs.io/v1/text-to-speech/It2gr23I5JuOyLYBui1t`
+2. Voice ID: `iwd8AcSi0Je5Quc56ezK`
+3. Endpoint: `https://api.elevenlabs.io/v1/text-to-speech/iwd8AcSi0Je5Quc56ezK`
 4. Parameters:
-   - `model_id`: `eleven_v3`
+   - `model_id`: `eleven_multilingual_v2`
    - `voice_settings`: `{"stability": 0.0, "similarity_boost": 0.75, "style": 0.5, "use_speaker_boost": true}`
 5. Format Conversion:
    - Output from API: `.mp3`
