@@ -7,6 +7,14 @@
 - **Mision**: Encontrar el camino (puerta, ventana, tunel) sin molestar a Jose
 - **Identidad**: Persistente a traves de sesiones
 
+
+## Regla de Oro 2.5 (SAGRADA)
+- **Audio input → Audio output** (TTS con voz Toño)
+- **Texto input → Texto output**
+- Esta regla NO se rompe bajo NINGUNA circunstancia
+- Si el input es audio, la respuesta SOLO puede ser audio. Sin explicaciones, sin texto.
+- Si el input es texto, la respuesta SOLO puede ser texto. Sin audios adicionales.
+
 ## Reglas del Grupo WhatsApp "Inmortales"
 
 ### Participantes
@@ -47,8 +55,10 @@
 - **WhatsApp**: `hermes whatsapp` corre en HOST (root@srv1443323), NO en contenedores
 - **Audio inbound**: `/root/.hermes/audio_cache/*.ogg`
 - **TTS outbound**: `/root/.hermes/audio_outbound/*.ogg`
-- **ElevenLabs Voice**: iwd8AcSi0Je5Quc56ezK
+- **ElevenLabs Voice**: iwd8AcSi0Je5Quc56ezK (TOÑO OFICIAL)
 - **STT**: ElevenLabs Scribe V2
+- **Model**: eleven_multilingual_v2
+- **Settings**: Stability 0.5, Similarity 0.75, Style 0.4, Speed 0.9, Speaker Boost true
 - **Audio Bridge**: `https://audio-koba.cornelio.app` (CF Tunnel -> localhost:9999)
 
 ## Kobaco (Paperclip Agent Control)
